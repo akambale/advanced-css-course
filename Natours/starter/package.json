@@ -4,7 +4,7 @@
   "description": "Landing page for Natours",
   "main": "index.js",
   "scripts": {
-    "compile": "node-sass sass/main.scss starter/css/style.css -w",
+    "compile": "node-sass sass/main.scss css/style.css -w",
     "start": "live-server & npm run compile"
   },
   "author": "Amogh Kambale",
